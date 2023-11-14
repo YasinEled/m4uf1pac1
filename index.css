@@ -33,23 +33,26 @@ p
 {
     position: absolute;
     left: 17%;
-    top: 269%;
+    top: 245.5%;
     color: green;
     text-decoration: none;
+    font-size: large;
 }
 .red2
 {
     position: absolute;
     left: 22.5%;
-    top: 269%;
+    top: 245.5%;
     color: green;
     text-decoration: none;
+    font-size: large;
 }
 .red3
 {
     position: absolute;
     left: 26%;
-    top: 269%;
+    top: 245.5%;
     color: green;
     text-decoration: none;
+    font-size: large;
 }
