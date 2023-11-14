@@ -1,0 +1,35 @@
+p
+{
+    color: white;
+    font-family: sans-serif;
+    text-align: justify;
+    margin: 3%;
+    font-size: x-large;
+}
+.red1
+{
+    position: absolute;
+    left: 17%;
+    top: 197.5%;
+    color: green;
+    text-decoration: none;
+    font-size: x-large;
+}
+.red2
+{
+    position: absolute;
+    left: 22.5%;
+    top: 197.5%;
+    color: green;
+    text-decoration: none;
+    font-size: x-large;
+}
+.red3
+{
+    position: absolute;
+    left: 26%;
+    top: 197.5%;
+    color: green;
+    text-decoration: none;
+    font-size: x-large;
+}
