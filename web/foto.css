@@ -1,0 +1,68 @@
+.bannerFoto
+{
+    position: sticky;
+    margin-top: -22%;
+    margin-bottom: -29.5%;
+    width: 100%;
+}
+.red1
+{
+    position: absolute;
+    left: 17%;
+    top: 330%;
+    color: green;
+    text-decoration: none;
+    height: 5%;
+}
+.red2
+{
+    position: absolute;
+    left: 22.5%;
+    top: 330%;
+    color: green;
+    text-decoration: none;
+    height: 5%;
+}
+.red3
+{
+    position: absolute;
+    left: 26%;
+    top: 330%;
+    color: green;
+    text-decoration: none;
+    height: 5%;
+}
+#loki2
+{
+    position: absolute;
+    top: 100%;
+    width: 65%;
+    left: 35%;
+}
+#loki3
+{
+    position: absolute;
+    top: 100%;
+    width: 43.3%;
+}
+#loki4
+{
+    position: absolute;
+    top: 188.5%;
+    width: 100%;
+}
+#foot1
+{
+    position: absolute;
+    top: 324%;
+    color: white;
+    left: 5%;
+
+}
+#foot2
+{
+    position: absolute;
+    top: 327.8%;
+    color: white;
+    left: 5%;
+}
