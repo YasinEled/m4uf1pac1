@@ -1,3 +1,10 @@
+.bannerFoto
+{
+    position: sticky;
+    margin-top: -22%;
+    margin-bottom: -29.5%;
+    width: 100%;
+}
 #videoo
 {
     position: relative;
