@@ -8,7 +8,7 @@
 .red1
 {
     position: absolute;
-    left: 17%;
+    left: 72%;
     top: 330%;
     color: green;
     text-decoration: none;
@@ -17,7 +17,7 @@
 .red2
 {
     position: absolute;
-    left: 22.5%;
+    left: 77%;
     top: 330%;
     color: green;
     text-decoration: none;
@@ -26,7 +26,7 @@
 .red3
 {
     position: absolute;
-    left: 26%;
+    left: 80%;
     top: 330%;
     color: green;
     text-decoration: none;
@@ -54,15 +54,15 @@
 #foot1
 {
     position: absolute;
-    top: 324%;
+    top: 328.2%;
     color: white;
-    left: 5%;
+    left: 20%;
 
 }
 #foot2
 {
     position: absolute;
-    top: 327.8%;
+    top: 328.2%;
     color: white;
-    left: 5%;
+    left: 60%;
 }
